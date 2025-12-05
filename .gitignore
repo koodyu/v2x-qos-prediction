@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# 实验生成的数据文件（不想进 Git 的部分）
+telemetry_dataset*.csv
+exogenous_*.csv
+*.npz
+*.log
+
+# 编辑器配置
+.vscode/
+.idea/
+*.swp
+
